@@ -1,0 +1,2 @@
+This package directly replaces the old shell rules that were still shrinking non-demo pages.
+It applies the same width settings used by the demo pages to all pages.
